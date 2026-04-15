@@ -1,0 +1,43 @@
+# ────────────────────────────────────────────────────────────────────────
+# 넥스트 팔란티어 스캐너 v3.0 — 종목 목록
+# 분류: 리서치 문서 기반 후보 + 고성장 스크리닝 대상
+# ────────────────────────────────────────────────────────────────────────
+
+# ── 🏆 넥스트 팔란티어 코어 후보 (리서치 최종 통과) ─────────────────────
+SAIL    # SailPoint — 사이버보안/아이덴티티, ARR 28%, 재상장
+WAY     # Waystar — 헬스케어 결제 소프트웨어, NRR 113%, 99% 반복매출
+HNGE    # Hinge Health — 디지털 헬스/AI 재활, 총마진 80%, 51% 성장
+KVYO    # Klaviyo — 마케팅 자동화 SaaS, NRR 110%, 32% 성장
+OMDA    # Omada Health — 만성질환 관리, 53% 성장 (고객집중 주의)
+
+# ── 💻 팔란티어형 소프트웨어/AI/국방 ────────────────────────────────────
+PLTR    # 팔란티어 — 벤치마크 기준
+AI      # C3.ai — 엔터프라이즈 AI
+RBRK    # Rubrik — 데이터 보안 플랫폼
+BBAI    # BigBear.ai — 국방 AI 분석
+
+# ── ☁ 클라우드·데이터 플랫폼 ────────────────────────────────────────────
+SNOW    # Snowflake
+DDOG    # Datadog
+NET     # Cloudflare
+GTLB    # GitLab
+MDB     # MongoDB
+
+# ── 🚀 우주 섹터 (backlog·launch cadence 중심) ──────────────────────────
+RKLB    # Rocket Lab — backlog 18.5억달러
+LUNR    # Intuitive Machines — NASA 계약
+ASTS    # AST SpaceMobile — 위성 통신
+
+# ── ⚛ 양자 컴퓨팅 (bookings·runway·기술마일스톤) ─────────────────────────
+IONQ    # IonQ — 현금 33억달러
+RGTI    # Rigetti Computing
+QBTS    # D-Wave Quantum
+
+# ── 💳 핀테크 ──────────────────────────────────────────────────────────
+AFRM    # Affirm
+BILL    # BILL Holdings
+TOST    # Toast
+
+# ── 반도체·AI 하드웨어 ─────────────────────────────────────────────────
+NVDA    # NVIDIA — 벤치마크
+AMD     # AMD
